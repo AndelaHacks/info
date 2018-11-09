@@ -1,4 +1,4 @@
-All participants in the **AndelaHacks** Slack are required to comply with the following Code of Conduct. Administrators (see below for definition of administrators) will enforce this code throughout the Rands Leadership Slack.
+All participants in the **AndelaHacks** Slack are required to comply with the following Code of Conduct. Administrators (see below for definition of administrators) will enforce this code throughout the Andela Hacks Slack.
 
 # The Short Version
 
