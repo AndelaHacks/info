@@ -2,15 +2,15 @@ All participants in the **AndelaHacks** Slack are required to comply with the fo
 
 # The Short Version
 
-Be respectful of other people; respectfully ask people to stop if you are bothered; respect privacy; understand we're mostly not-for-profit; and if you can’t resolve an issue then contact the Administrators. If you are being a problem, it will be apparent and you may be asked to leave the Rands Leadership Slack.
+Be respectful of other people; respectfully ask people to stop if you are bothered; respect privacy; understand we're mostly not-for-profit; and if you can’t resolve an issue then contact the Administrators. If you are being a problem, it will be apparent and you may be asked to leave the Andela Hacks Slack.
 
 # The Long Version
 
 ## Respect
 
-The Rands Leadership Slack is an intentionally positive community that recognizes and celebrates the creativity and collaboration of independent members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to our community.
+The Andela Hacks Slack is an intentionally positive community that recognizes and celebrates the creativity and collaboration of independent members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to our community.
 
-The Rands Leadership Slack is an inclusive environment, based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), or career path.
+The Andela Hacks Slack is an inclusive environment, based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), or career path.
 
 We value respectful behavior above individual opinions.
 
